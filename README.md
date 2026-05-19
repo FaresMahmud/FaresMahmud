@@ -2,7 +2,7 @@
 
 **Back-end Developer in Training** · Java · Spring Boot · REST APIs
 
-I'm a Software Engineering student at Unifra (Brazil) with a CS50x certification from Harvard, focused on building solid back-end solutions. I enjoy turning ideas into real, working projects — you can check them out below.
+I'm a Software Engineering student at Unifra (Brazil) with a CS50x certification from Harvard, focused on building solid back-end solutions. I enjoy turning ideas into real, working projects. You can check them out below.
 
 ---
 
@@ -55,7 +55,7 @@ I'm a Software Engineering student at Unifra (Brazil) with a CS50x certification
 ## 📚 Education & Certifications
 
 - 🎓 **B.Sc. Information Systems** — Unifra, Santa Maria/RS *(in progress)*
-- 🏆 **CS50x — Introduction to Computer Science** — Harvard University / edX (2024)
+- 🏆 **CS50x — Introduction to Computer Science** — Harvard University / edX (2026)
 
 ---
 
