@@ -19,14 +19,28 @@ I'm a Software Engineering student at Unifra (Brazil) with a CS50x certification
 **Frameworks & Tools**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
+
+### [Study Management Platform](https://github.com/FaresMahmud/study-management-platform)
+> Full-stack web application for study management — Spring Boot back-end + React front-end + SQL Server.
+
+- RESTful API with full CRUD operations
+- React front-end consuming the back-end API
+- Relational database modeling with SQL Server
+- Clean separation between front-end and back-end layers
+
+**Stack:** Java · Spring Boot · React · SQL Server · Maven · Git
+
+---
 
 ### [Cosmos Fleet API](https://github.com/FaresMahmud/cosmos-fleet-api)
 > REST API in Java + Spring Boot to manage a spaceship fleet — with 3D visualization via Three.js/WebGL.
@@ -61,5 +75,6 @@ I'm a Software Engineering student at Unifra (Brazil) with a CS50x certification
 
 ## 📫 Let's connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=githubpages&logoColor=white)](https://faresmahmud.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fares-mahmud-412693376)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/FaresMahmud)
